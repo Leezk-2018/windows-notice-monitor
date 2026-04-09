@@ -1,5 +1,0 @@
-requests>=2.32.0
-PyYAML>=6.0.2
-pytest>=8.3.0
-# Real Windows notification listening uses the built-in PowerShell/WinRT bridge.
-# No extra package is required for the fallback path, but Windows notification access must be granted.
