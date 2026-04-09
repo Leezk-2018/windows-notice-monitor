@@ -82,7 +82,7 @@
 ## 安装
 
 ```powershell
-cd D:\lee\github\wechat-cli\pc-wechat-bark
+cd pc-wechat-bark
 pip install -e .
 ```
 
